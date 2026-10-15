@@ -1,0 +1,244 @@
+{
+  "_Icon-Bo9jbUr1.js": {
+    "file": "_next/static/chunks/Icon-Bo9jbUr1.js",
+    "name": "Icon",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_apec-theme-BVxfUqP0.js": {
+    "file": "_next/static/chunks/apec-theme-BVxfUqP0.js",
+    "name": "apec-theme"
+  },
+  "_download-DqwA8JJW.js": {
+    "file": "_next/static/chunks/download-DqwA8JJW.js",
+    "name": "download",
+    "imports": [
+      "_page-narrator-CltaNtBj.js"
+    ]
+  },
+  "_exploration-provider-DEX4lFxf.js": {
+    "file": "_next/static/chunks/exploration-provider-DEX4lFxf.js",
+    "name": "exploration-provider",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_framework-D_rUT4EX.js": {
+    "file": "_next/static/chunks/framework-D_rUT4EX.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_map-label-layout-DYdTjJoC.js": {
+    "file": "_next/static/chunks/map-label-layout-DYdTjJoC.js",
+    "name": "map-label-layout",
+    "imports": [
+      "_exploration-provider-DEX4lFxf.js",
+      "_page-narrator-CltaNtBj.js",
+      "components/site-chrome.tsx",
+      "_apec-theme-BVxfUqP0.js",
+      "_waves-horizontal-CMj2hY6w.js",
+      "_sparkles-DWFIBnGf.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_navigation-errors-By4dF-Cc.js": {
+    "file": "_next/static/chunks/navigation-errors-By4dF-Cc.js",
+    "name": "navigation-errors",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_page-narrator-CltaNtBj.js": {
+    "file": "_next/static/chunks/page-narrator-CltaNtBj.js",
+    "name": "page-narrator",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_Icon-Bo9jbUr1.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_progress-D0NvFGRY.js": {
+    "file": "_next/static/chunks/progress-D0NvFGRY.js",
+    "name": "progress",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_page-narrator-CltaNtBj.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "_sparkles-DWFIBnGf.js": {
+    "file": "_next/static/chunks/sparkles-DWFIBnGf.js",
+    "name": "sparkles",
+    "imports": [
+      "_page-narrator-CltaNtBj.js"
+    ]
+  },
+  "_waves-horizontal-CMj2hY6w.js": {
+    "file": "_next/static/chunks/waves-horizontal-CMj2hY6w.js",
+    "name": "waves-horizontal",
+    "imports": [
+      "_page-narrator-CltaNtBj.js"
+    ]
+  },
+  "app/page.tsx": {
+    "file": "_next/static/chunks/page-DUtNKdNf.js",
+    "name": "page",
+    "src": "app/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_map-label-layout-DYdTjJoC.js",
+      "_exploration-provider-DEX4lFxf.js",
+      "_page-narrator-CltaNtBj.js",
+      "components/site-chrome.tsx",
+      "_progress-D0NvFGRY.js",
+      "_waves-horizontal-CMj2hY6w.js",
+      "_sparkles-DWFIBnGf.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/learning-page.tsx": {
+    "file": "_next/static/chunks/learning-page-DNNZoeRw.js",
+    "name": "learning-page",
+    "src": "components/learning-page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_exploration-provider-DEX4lFxf.js",
+      "_page-narrator-CltaNtBj.js",
+      "components/site-chrome.tsx",
+      "_apec-theme-BVxfUqP0.js",
+      "_sparkles-DWFIBnGf.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/passport-page.tsx": {
+    "file": "_next/static/chunks/passport-page-DGTSQ5WP.js",
+    "name": "passport-page",
+    "src": "components/passport-page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_exploration-provider-DEX4lFxf.js",
+      "_page-narrator-CltaNtBj.js",
+      "components/site-chrome.tsx",
+      "_progress-D0NvFGRY.js",
+      "_apec-theme-BVxfUqP0.js",
+      "_waves-horizontal-CMj2hY6w.js",
+      "_sparkles-DWFIBnGf.js",
+      "_download-DqwA8JJW.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/project-page.tsx": {
+    "file": "_next/static/chunks/project-page-BBOAVHO-.js",
+    "name": "project-page",
+    "src": "components/project-page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_exploration-provider-DEX4lFxf.js",
+      "_page-narrator-CltaNtBj.js",
+      "components/site-chrome.tsx",
+      "_apec-theme-BVxfUqP0.js",
+      "_download-DqwA8JJW.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/site-chrome.tsx": {
+    "file": "_next/static/chunks/site-chrome-37zh-2ZF.js",
+    "name": "site-chrome",
+    "src": "components/site-chrome.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_exploration-provider-DEX4lFxf.js",
+      "_page-narrator-CltaNtBj.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/station-page.tsx": {
+    "file": "_next/static/chunks/station-page-pssiU_-j.js",
+    "name": "station-page",
+    "src": "components/station-page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_map-label-layout-DYdTjJoC.js",
+      "_exploration-provider-DEX4lFxf.js",
+      "_page-narrator-CltaNtBj.js",
+      "components/site-chrome.tsx",
+      "_waves-horizontal-CMj2hY6w.js",
+      "_sparkles-DWFIBnGf.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "_next/static/chunks/app-route-prefetch-policy-NOtleM0W.js",
+    "name": "app-route-prefetch-policy",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-BgVM_bmv.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-D_rUT4EX.js",
+      "_navigation-errors-By4dF-Cc.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "_next/static/chunks/streamed-icons-B-UMI8TU.js",
+    "name": "streamed-icons",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-CpzBbNXC.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js",
+      "_navigation-errors-By4dF-Cc.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "_Icon-Bo9jbUr1.js",
+      "components/project-page.tsx",
+      "virtual:vinext-app-browser-entry",
+      "components/station-page.tsx",
+      "components/site-chrome.tsx",
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/page.tsx",
+      "_exploration-provider-DEX4lFxf.js",
+      "components/learning-page.tsx",
+      "components/passport-page.tsx",
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/streamed-icons.js",
+      "_page-narrator-CltaNtBj.js"
+    ]
+  }
+}
